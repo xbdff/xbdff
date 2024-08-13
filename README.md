@@ -1,6 +1,5 @@
-这是一个学习git的仓库
 ## Hi there 👋
-
+这是一个学习git的仓库
 <!--
 **xbdff/xbdff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
